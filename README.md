@@ -29,6 +29,7 @@
 1. Das absichtliche rücksichtslose Verfolgen als vorrangiges Ziel, anderen Usern den Spielspaß zu nehmen oder Nutzungserlebnis zu mindern, ist verboten.
 2. Das allgemeine Töten oder Behindern anderer Spieler unmittelbar nach deren Respawn (Spawntrapping) ist verboten.
 3. Die betrügerische Handlung, bei denen User absichtlich andere täuschen (Scamming) ist, falls nicht explizit erlaubt, verboten.
+4. Das Teaming, außer explizit erlaubt, ist verboten. Gleiche Chancen für alle.
 
 ### §4. Verhalten
 

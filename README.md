@@ -6,7 +6,7 @@
 
 1. Die Nutzung von Clientmodifikationen jeglicher Art, welche einen Vorteil gegenüber anderen Usern bringen, ist untersagt.<br>
    Das alleinige Betreten des Servers mit solchen ist gleichzusetzen mit der Benutzung.<br>
-   Als Beispiele sind zu nennen: Hack Clients, Auto Clicker, etc. .<br>
+   Als Beispiele sind zu nennen: Hack Clients, Auto Clicker, Walksy Optimizer, etc. .<br>
    Folgende Ausnahmen wurden festgelegt: Full Bright (Texture Pack, normale Clients allerdings keine Hack Clients).
 2. Die Nutzung von weiteren Accounts zu seinem Vorteil (solang nicht explizit erlaubt) ist verboten.<br>
    Bei einer Banumgehung werden beide Accounts für eine längere Dauer gebannt.
@@ -58,13 +58,17 @@ Das Regelwerk unterliegt dem geistigen Eigentum von SrinoNetwork. Die Beitragend
 
 1. Das Hetzen ohne Argumente gegen Server oder Mitglieder ist verboten.
 2. Aussagen von Teammitgliedern sollten respektiert werden.
+3. Das Anlügen eines Teammitgliedes wird strengstens bestraft.
+4. Werbung ohne Erlaubnis für einen anderen Server ist verboten.
+5. Das wiederholte oder schnelles Senden von Nachrichten (Spamming) ist störend und unerwünscht.
 
 ### Sprachchannel
 
 1. Das Abspielen von Musik mit den Bots ist nur mit Einverständnis aller im Channel erlaubt.
 2. Das Nutzen von Soundboards ist nur mit dem Einverständnis aller im Channel erlaubt.
 3. Stimmenverzerrer, Channel Hopping und das unangenehme Schreien ist grundsätzlich verboten.
-4. Hinweis auf Regeln **Umgang mit anderen**
+4. Das Aufnehmen von Personen ist rechtlich ohne die Einverständnis verboten.
+5. Hinweis auf Regeln **Umgang mit anderen**
 
 <br>
 Unwissenheit schützt vor Strafe nicht.<br>

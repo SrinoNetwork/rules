@@ -1,4 +1,4 @@
-# Regeln
+# Regeln von SrinoNetwork
 
 ## Minecraft
 

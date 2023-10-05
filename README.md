@@ -18,6 +18,8 @@
    Zusätzlich werden sämtliche Beweise bereitwillig, falls benötigt, an die Behörden weitergegeben.
 7. Durch das Betreten des Netzwerks, stimmt der Nutzer der [Minecraft EULA](https://www.minecraft.net/de-de/eula) zu und verpflichtet sich an diese zu halten.<br>
    Der Verstoß wird bestraft und der [zuständigen Stelle](https://www.minecraft.net) gemeldet.
+8. Der Echtgeldhandel, also das tauschen von Geld oder Gutscheinen gegen virtuelle Güter, ist verboten.<br>
+   Das Tauschen von virtuellen Gütern wie z.B. einen Rang gegen andere virtuelle Güter ist erlaubt.
 
 ### §2. Erstattung von Gütern
 

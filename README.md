@@ -42,6 +42,7 @@
 <br>
 Unwissenheit schützt vor Strafe nicht.<br>
 Die Regeln können jederzeit von der Leitung des SrinoNetworks aktualisiert und geändert werden.<br>
+Teammitglieder dürfen nach Absprache mit der Leitung auch Bestrafungen außerhalb dieser Regeln vergeben.<br>
 Das Regelwerk unterliegt dem geistigen Eigentum von SrinoNetwork. Die Beitragenden behalten sich das Recht vor, rechtliche Schritte bei Verstößen einzuleiten.
 
 ## Discord
@@ -74,5 +75,6 @@ Das Regelwerk unterliegt dem geistigen Eigentum von SrinoNetwork. Die Beitragend
 
 <br>
 Unwissenheit schützt vor Strafe nicht.<br>
-Die Regeln können jederzeit von der Leitung des SrinoNetworks aktualisiert und geändert werden. Außerdem darf jeder Teamler jeden Spieler ohne Grund bestrafen (wird aber nicht gemacht)<br>
+Die Regeln können jederzeit von der Leitung des SrinoNetworks aktualisiert und geändert werden.<br>
+Teammitglieder dürfen nach Absprache mit der Leitung auch Bestrafungen außerhalb dieser Regeln vergeben.<br>
 Das Regelwerk unterliegt dem geistigen Eigentum von SrinoNetwork. Die Beitragenden behalten sich das Recht vor, rechtliche Schritte bei Verstößen einzuleiten.

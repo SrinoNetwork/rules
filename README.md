@@ -31,7 +31,6 @@
 1. Das absichtliche rücksichtslose Verfolgen als vorrangiges Ziel, anderen Usern den Spielspaß zu nehmen oder Nutzungserlebnis zu mindern, ist verboten.
 2. Das allgemeine Töten oder Behindern anderer Spieler unmittelbar nach deren Respawn (Spawntrapping) ist verboten.
 3. Die betrügerische Handlung, bei denen User absichtlich andere täuschen (Scamming) ist, falls nicht explizit erlaubt, verboten.
-4. Das Teaming, außer explizit erlaubt, ist verboten. Gleiche Chancen für alle.
 
 ### §4. Verhalten
 
@@ -75,5 +74,5 @@ Das Regelwerk unterliegt dem geistigen Eigentum von SrinoNetwork. Die Beitragend
 
 <br>
 Unwissenheit schützt vor Strafe nicht.<br>
-Die Regeln können jederzeit von der Leitung des SrinoNetworks aktualisiert und geändert werden.<br>
+Die Regeln können jederzeit von der Leitung des SrinoNetworks aktualisiert und geändert werden. Außerdem darf jeder Teamler jeden Spieler ohne Grund bestrafen (wird aber nicht gemacht)<br>
 Das Regelwerk unterliegt dem geistigen Eigentum von SrinoNetwork. Die Beitragenden behalten sich das Recht vor, rechtliche Schritte bei Verstößen einzuleiten.

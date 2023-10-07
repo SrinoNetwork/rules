@@ -20,6 +20,8 @@
    Der Verstoß wird bestraft und der [zuständigen Stelle](https://www.minecraft.net) gemeldet.
 8. Der Echtgeldhandel, also das tauschen von Geld oder Gutscheinen gegen virtuelle Güter, ist verboten.<br>
    Das Tauschen von virtuellen Gütern wie z.B. einen Rang gegen andere virtuelle Güter ist erlaubt.
+9. Das Boosten von Statistiken, das heißt das künstliche Verbessern von Leistungen oder Platzierungen in Ranglisten durch Absprachen mit anderen Spielern, ist strengstens untersagt und wird nicht toleriert.<br>
+   Jegliche Form von unfairem Vorteilserlangen wird mit entsprechenden Sanktionen geahndet
 
 ### §2. Erstattung von Gütern
 

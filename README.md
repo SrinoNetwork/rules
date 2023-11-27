@@ -21,7 +21,8 @@
 8. Der Echtgeldhandel, also das tauschen von Geld oder Gutscheinen gegen virtuelle Güter, ist verboten.<br>
    Das Tauschen von virtuellen Gütern wie z.B. einen Rang gegen andere virtuelle Güter ist erlaubt.
 9. Das Boosten von Statistiken, das heißt das künstliche Verbessern von Leistungen oder Platzierungen in Ranglisten durch Absprachen mit anderen Spielern, ist strengstens untersagt und wird nicht toleriert.<br>
-   Jegliche Form von unfairem Vorteilserlangen wird mit entsprechenden Sanktionen geahndet
+   Jegliche Form von unfairem Vorteilserlangen wird mit entsprechenden Sanktionen geahndet.
+10.Die Nutzung von mehr als 3 Accounts ist verboten. (Über den gesamten Zeitraum seit dem ersten Join)
 
 ### §2. Erstattung von Gütern
 

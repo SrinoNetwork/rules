@@ -1,4 +1,12 @@
-# Regeln von SrinoNetwork
+# Regeln von SRINO.NET
+
+Willkommen zum offizielen Regelwerk von SRINO.NET.<br>
+
+## Allgemein
+
+1. Das Management und höher darf jeden Spieler ohne Grund jederzeit bannen.
+2. Jede Umgehung einer Strafe (z. B. Mute/Banumgehung) hat eine Sanktionsverlängerung oder -verschärfung bis hin zum permanenten Ausschluss zur Folge.
+3. Tonaufnahmen von Voice-Gesprächen dürfen ausschließlich zur Beweisführung bei Regelverstößen (z. B. Beleidigungen) dem Team gesendet werden. Veröffentlichungen oder Missbrauch sind untersagt. Wer in einem Voice-Channel oder im VoiceChat in Minecraft spricht, erklärt sich mit dieser Regel einverstanden
 
 ## Minecraft
 
@@ -9,9 +17,9 @@
    Als Beispiele sind zu nennen: Hack Clients, Auto Clicker, Walksy Optimizer, etc. .<br>
    Folgende Ausnahmen wurden festgelegt: Full Bright (Texture Pack, normale Clients allerdings keine Hack Clients).
 2. Die Nutzung von weiteren Accounts zu seinem Vorteil (solang nicht explizit erlaubt) ist verboten.<br>
-   Bei einer Banumgehung werden beide Accounts für eine längere Dauer gebannt.
-3. Werbung (auch indirekt) für andere Server oder Community's ist Verboten.
-4. Das Finden von Bugs wird je nach Wichtigkeit belohnt, jeder Spieler ist verpflichtet, dazu beizutragen, den Server fehlerfrei zu gestalten.<br>
+   Bei einer Banumgehung werden beide Accounts gebannt.
+3. Werbung (auch indirekt) für andere Server oder Community's ist Verboten, wenn nicht mit dem Team abgesprochen.
+4. Das Finden von Bugs wird je nach Wichtigkeit belohnt oder nicht belohnt, jeder Spieler ist verpflichtet, dazu beizutragen, den Server fehlerfrei zu gestalten.<br>
    Bugusing (z.B. Duplizierung, Glitches) wird bestraft.
 5. Die absichtliche Verursachung von Lags ist untersagt und führt zu einem Communityausschluss!
 6. Die Veröffentlichung privater Informationen anderer Benutzer ist untersagt und führt zu einer permanenten Ban.<br>
@@ -40,7 +48,7 @@
 1. Rassismus, Nationalsozialismus, Sexismus und ähnliches wird aufs extremste bestraft!
 2. Pornografische oder nicht jugendfreie Inhalte sind grundsätzlich verboten.
 3. Beleidigung und Provokation ist unerwünscht, je nach extremum verlängert sich die Strafe.
-4. Das wiederholte Senden von Nachrichten (Spamming) ist störend und unerwünscht.
+4. Das wiederholte Senden von Nachrichten (Spamming) ist störend und unerwünscht
 
 <br>
 Unwissenheit schützt vor Strafe nicht.<br>

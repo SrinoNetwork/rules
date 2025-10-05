@@ -3,10 +3,8 @@
 Willkommen zum offizielen Regelwerk von SRINO.NET.<br>
 
 ## Allgemein
-
-1. Das Management und höher darf jeden Spieler ohne Grund jederzeit bannen.
-2. Jede Umgehung einer Strafe (z. B. Mute/Banumgehung) hat eine Sanktionsverlängerung oder -verschärfung bis hin zum permanenten Ausschluss zur Folge.
-3. Tonaufnahmen von Voice-Gesprächen dürfen ausschließlich zur Beweisführung bei Regelverstößen (z. B. Beleidigungen) dem Team gesendet werden. Veröffentlichungen oder Missbrauch sind untersagt. Wer in einem Voice-Channel oder im VoiceChat in Minecraft spricht, erklärt sich mit dieser Regel einverstanden
+1. Jede Umgehung einer Strafe (z. B. Mute/Banumgehung) hat eine Sanktionsverlängerung oder -verschärfung bis hin zum permanenten Ausschluss zur Folge.
+2. Tonaufnahmen von Voice-Gesprächen dürfen ausschließlich zur Beweisführung bei Regelverstößen (z. B. Beleidigungen) dem Team gesendet werden. Veröffentlichungen oder Missbrauch sind untersagt. Wer in einem Voice-Channel oder im VoiceChat in Minecraft spricht, erklärt sich mit dieser Regel einverstanden
 
 ## Minecraft
 
